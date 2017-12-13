@@ -21,5 +21,6 @@
 
 
 |aa|bb|cc|
+|:--:|:--:|:--:|
 |sss|sssss|rrr|
 |rette|rr|rrr|
